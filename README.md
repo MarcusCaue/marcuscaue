@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**MarcusCaue/marcuscaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### console.log(`Hello developers 👋`); 
 
 Here are some ideas to get you started:
 
